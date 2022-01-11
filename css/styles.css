@@ -18,8 +18,9 @@
     border-style: solid;
   }
   .project {
-      margin: auto;
-      align-content: center;
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
       text-align: center; 
-      color: blueviolet;
+    
   }
