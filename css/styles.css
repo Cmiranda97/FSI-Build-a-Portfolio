@@ -1,0 +1,25 @@
+ body {
+      text-align: center;
+      
+    background: rgba(0, 151, 211, 0.705) 
+  }
+  h1 {
+    border: 5px solid rgb(13, 31, 56);
+  }
+  
+  h2 {
+    border: 4px dotted rgb(0, 0, 0);
+  }
+  h1 {
+    border-style: solid;
+  }
+  
+  div {
+    border-style: solid;
+  }
+  .project {
+      margin: auto;
+      align-content: center;
+      text-align: center; 
+      color: blueviolet;
+  }
